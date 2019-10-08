@@ -103,7 +103,7 @@ function handleWindowResize(){
 //현재 위치를 잡아 주고 표시하는 부분
 function Location(elt){
 	var options = {
-		enableHighAccuracy: true,
+		enableHighAccuracy: false,
 		maximumAge: 5,
 		timeout: 15000
 	}
