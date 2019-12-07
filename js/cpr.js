@@ -283,7 +283,7 @@ function Panels(){
 	var panels = new function panles(){
 		requestAnimationFrame(panles);
 
-        var panelMove = Deg.map(0, Math.PI * 2, 0, 360);
+        var panelMove = Deg.map(0, 360, (Math.PI * 2), 0);
 		if(panelMove >= (Math.PI * 0.75) && panelMove <= (Math.PI * 1.25)) panel.rotation.z = -panelMove; 
 		if (Ele < 0 && panel.rotation.z > -(Math.PI * 1.25)) panel.rotation.z -= (Math.PI / 1440);
 
