@@ -18,7 +18,7 @@
 
 ## 동작 설명
 
-<https://github.com/seungwoo505/2019COEX/blob/main/AstronomicalAlgorithms.pdf>
+<https://github.com/seungwoo505/2019COEX/blob/main/Astronomical_Algorithms.pdf>
 위의 논문을 바탕으로 현 위치와 시간을 바탕으로 태양 위치를 파악하는 계산식을 파악하고
 
 
