@@ -10,7 +10,7 @@
 
 ### 실물 사진
 
-![SCV](https://github.com/seungwoo505/2019COEX/blob/master/ActualProduct.jpg)
+![SCV](https://github.com/seungwoo505/2019COEX/blob/master/ActualProduct.JPG)
 
 ### UI/UX
 
