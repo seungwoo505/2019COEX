@@ -1,4 +1,4 @@
-# COEX 전시회 작품
+# COEX 전시회 작품(태양열 패널이 부착되어있는 공기청정기)
 
 ## 개요
 
@@ -19,6 +19,7 @@
 ### 입상
 
 ![Winning](https://github.com/seungwoo505/2019COEX/blob/master/Winning.jpg)
+
 ## 동작 설명
 
 <https://github.com/seungwoo505/2019COEX/blob/master/Astronomical%20Algorithms.pdf>
