@@ -10,15 +10,15 @@
 
 ### 실물 사진
 
-![SCV](https://github.com/seungwoo505/2019COEX/blob/main/ActualProduct.png)
+![SCV](https://github.com/seungwoo505/2019COEX/blob/master/ActualProduct.png)
 
 ### UI/UX
 
-![SCV](https://github.com/seungwoo505/2019COEX/blob/main/page.png)
+![SCV](https://github.com/seungwoo505/2019COEX/blob/master/page.png)
 
 ## 동작 설명
 
-<https://github.com/seungwoo505/2019COEX/blob/main/Astronomical%20Algorithms.pdf>
+<https://github.com/seungwoo505/2019COEX/blob/master/Astronomical%20Algorithms.pdf>
 위의 논문을 바탕으로 현 위치와 시간을 바탕으로 태양 위치를 파악하는 계산식을 파악하고
 
 
