@@ -1,5 +1,24 @@
-# COEX
-졸업작품전시회에 사용된 코드정리
+# COEX 전시회 작품
 
-아두이노에 있는 코드는 실제로 태양광패널을 태양위치에 맞추기위해 태양식을 이용해 작성된것이며
-HTML, CSS, JavaScript는 태양에 따라 어떻게 태양광패널이 움직이는지 보여준다.(같은 식을 이용)
+## 개요
+
+학교에서 COEX에 학교 대표로 나갈 동아리를 선별하고 COEX에서 실제로 외부 사람에게 공개하는 행사입니다.
+
+이 프로젝트는 COEX에 학교 대표로서 뽑혀 만든 결과물입니다.
+
+## 결과물
+
+### 실물 사진
+
+![SCV](https://github.com/seungwoo505/2019COEX/blob/main/ActualProduct.png)
+
+### UI/UX
+
+![SCV](https://github.com/seungwoo505/2019COEX/blob/main/page.png)
+
+## 동작 설명
+
+<https://github.com/seungwoo505/2019COEX/blob/main/Astronomical Algorithms.pdf>
+위의 논문을 바탕으로 현 위치와 시간을 바탕으로 태양 위치를 파악하는 계산식을 파악하고
+
+
