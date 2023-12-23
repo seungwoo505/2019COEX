@@ -18,7 +18,7 @@
 
 ### 입상
 
-![Winning](https://github.com/seungwoo505/2019COEX/blob/master/Winning.HEIC)
+![Winning](https://github.com/seungwoo505/2019COEX/blob/master/Winning.JPG)
 ## 동작 설명
 
 <https://github.com/seungwoo505/2019COEX/blob/master/Astronomical%20Algorithms.pdf>
