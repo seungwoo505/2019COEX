@@ -24,7 +24,7 @@
 
 ## 동작 설명
 
-<https://github.com/seungwoo505/2019COEX/blob/master/Astronomical%20Algorithms.pdf>
+"Astronomical Algorithms". Meeus, J. (Second Edition 1998, William-Bell, Inc., Richmond, Virginia, USA
 
 위의 책을 바탕으로 현 위치와 시간을 바탕으로 태양 위치를 파악하는 계산식을 이용하여 태양열 패널의 위치를 최적의 상태로 만들어 최적화된 
 전기 공급을 만들어줍니다.
