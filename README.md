@@ -13,16 +13,13 @@
 ## 결과물
 
 ### 실물 사진
-
-![SCV](https://github.com/seungwoo505/2019COEX/blob/master/ActualProduct.JPG)
+<img src="https://github.com/seungwoo505/2019COEX/blob/master/ActualProduct.JPG" height="500"/>
 
 ### UI/UX
-
-![SCV](https://github.com/seungwoo505/2019COEX/blob/master/page.png)
+<img src="https://github.com/seungwoo505/2019COEX/blob/master/page.png" height="500"/>
 
 ### 입상
-
-![Winning](https://github.com/seungwoo505/2019COEX/blob/master/Winning.jpg)
+<img src="https://github.com/seungwoo505/2019COEX/blob/master/Winning.jpg" height="500"/>
 
 ## 동작 설명
 
